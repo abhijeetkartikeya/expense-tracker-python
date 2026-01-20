@@ -31,7 +31,7 @@ A simple yet powerful command-line Expense Tracker that helps you manage your da
 
 - **Python** - Core programming language
 - **Pandas** - Data manipulation and analysis
-- **Matplotlib** - Data visualization and charting
+- **Matplotlib** - Data visualization and charting(WIP)
 
 ## 🚀 Installation
 
